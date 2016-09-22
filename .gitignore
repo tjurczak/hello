@@ -1,1 +1,4 @@
 .idea/
+composer.phar
+vendor/
+phpunit-5.5.5.phar
